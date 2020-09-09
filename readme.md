@@ -10,6 +10,7 @@
 ### Microservices
 * [Microservice Architecture by Martin flower](https://martinfowler.com/articles/microservice-testing/)
 * [Microservice architecture and design patterns - Saga, cqrs etc  by Chris Richardson](https://microservices.io/index.html)
+* [Apache Thrift vs Protocol Buffers](https://www.eprosima.com/index.php/resources-all/performance/apache-thrift-vs-protocol-buffers-vs-fast-buffers)
 
 ### Design Patterns
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
@@ -19,5 +20,8 @@
 
 ### Magazines (print/digital)
 * [Increment by Stripe](https://increment.com/issues/)
+
+### DevOps/SRE
+* [Chaos Monkey Resources, Guides, and Downloads](https://www.gremlin.com/chaos-monkey/for-engineers/)
 
 ### Misc.
