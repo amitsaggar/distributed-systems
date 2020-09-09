@@ -17,7 +17,7 @@
 
 ### Books
 * [Your personal guide to Software Engineering technical interviews.](https://github.com/kdn251/interviews)
-* [Microservice Architecture - Aligning Principles, Practices, and Culture](https://github.com/amitsaggar/distributed-systems/books/Microservice-Architecture-Aligning-Principles,-Practices,-and-Culture.pdf)
+* [Microservice Architecture - Aligning Principles, Practices, and Culture](https://github.com/amitsaggar/distributed-systems/blob/master/books/Microservice-Architecture-Aligning%20Principles%2C-Practices%2C-and-Culture.pdf)
 * [Practical advice for the strategy and design of Microservices](https://github.com/amitsaggar/distributed-systems/books/Building_Microservices_Nginx.pdf)
 
 ### Magazines (print/digital)
