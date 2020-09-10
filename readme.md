@@ -27,3 +27,4 @@
 * [Chaos Monkey Resources, Guides, and Downloads](https://www.gremlin.com/chaos-monkey/for-engineers/)
 
 ### Misc.
+* [Cloud run - GCP serverless](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-3/)
